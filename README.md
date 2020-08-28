@@ -1,4 +1,6 @@
-### Hi there 👋
+![Banner](./images/banner.jpg)
+
+<h1 align="center">Welcome to my :octocat: profile!</h1>
 
 <!--
 **sunnyfeng17/sunnyfeng17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
