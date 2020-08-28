@@ -1,6 +1,9 @@
-![Banner](./images/banner.jpg)
+![Banner](https://raw.github.com/sunnyfeng17/sunnyfeng17/master/images/banner.jpg)
 
 <h1 align="center">Welcome to my :octocat: profile!</h1>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **sunnyfeng17/sunnyfeng17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
