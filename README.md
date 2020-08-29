@@ -2,81 +2,21 @@
 
 <h1 align="center">Welcome to my :octocat: profile!</h1>
 
+:blue_heart: Collaborative environment where ideas and knowledge can be shared, whilst creating solutions that can make a difference!  
+🎓 Recent Computer Science Graduate from the [University of Auckland](https://www.auckland.ac.nz/en.html).  
+
+<h2 align="center">📊 Some interesting stats!</h2>  
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-746-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 370 Contributions in the Year 2020
- > 
-> 📦 635.3 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories
- > 
-> 🔑 12 Private Repositories 
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
-🌆 Daytime    71 commits     ███████░░░░░░░░░░░░░░░░░░   31.28% 
-🌃 Evening    56 commits     ██████░░░░░░░░░░░░░░░░░░░   24.67% 
-🌙 Night      91 commits     ██████████░░░░░░░░░░░░░░░   40.09%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
-Tuesday      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
-Wednesday    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
-Thursday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
-Friday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Saturday     60 commits     ██████░░░░░░░░░░░░░░░░░░░   26.43% 
-Sunday       47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.7%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-Markdown                 5 mins              █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-sunnyfeng17              5 mins              █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83% 
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/sunnyfeng17/sunnyfeng17/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
+
+<h2 align="center">📫 Find me at!</h2>  
+<p align="center">
+  <a href="https://www.sunnyfeng.co.nz" target="_blank"><img alt="for-the-badge" src="https://img.shields.io/badge/Sunny Feng-Website- ?logo=&amp;style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/sunnyfeng617" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+WakaTime stats generated using github action [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
 <!--
 **sunnyfeng17/sunnyfeng17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
