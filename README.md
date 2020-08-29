@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my :octocat: profile!</h1>
 
-:blue_heart: Collaborative environment where ideas and knowledge can be shared, whilst creating solutions that can make a difference!  
+:blue_heart: Collaborative environments where ideas and knowledge can be shared, whilst creating solutions that can make a difference!  
 🎓 Recent Computer Science Graduate from the [University of Auckland](https://www.auckland.ac.nz/en.html).  
 
 <h2 align="center">📊 Some interesting stats!</h2>  
