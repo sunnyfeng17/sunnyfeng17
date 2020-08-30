@@ -8,9 +8,9 @@
 <h2 align="center">📊 Some interesting stats!</h2>  
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-822-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-823-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-607684%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-608210%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
