@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-765890%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-760%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -61,7 +61,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 
 <h2 align="center">📫 Find me at!</h2>  
