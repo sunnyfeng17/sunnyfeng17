@@ -8,7 +8,7 @@
 <h2 align="center">📊 Some interesting stats!</h2>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 12:15:10 UTC
+ Last Updated on 14/09/2022 12:19:23 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">📫 Find me at!</h2>  
